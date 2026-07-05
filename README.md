@@ -46,6 +46,11 @@ Cloud storage optimization agent that recommends storage tiers, implements lifec
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 storage-agent/
 │
